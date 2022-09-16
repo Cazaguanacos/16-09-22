@@ -1,5 +1,31 @@
 body
 {
-    background-color :rgb(255, 219, 140) ;
-    
+    background-color :rgb(185, 255, 153) ;
+
+}
+.c{
+    width: 200px ;
+    height: 200px;
+  background-color: aliceblue;
+  filter: drop-shadow(30px 10px 4px #340057);
+  border-radius: 10px;
+  border:2px solid black;
+  background-image: url("https://supermercadosla80.com/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMmM0amc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--7862b91356ff2448109325bd07e26e747c9731c4/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9TY21WemFYcGxYM1J2WDJacGRGc0hhUUpZQW1rQ1dBST0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--361554d0b7dd92546ceda39454543fcece989fd5/7702189045799.png?locale=es");
+  background-size: 190px 190px;
+  background-repeat: no-repeat;
+  text-align: center;
+}
+.d{
+    color: #fff;
+	margin-top: 30%;
+	text-shadow:
+		0 0 5px rgba(0,178,255,1),
+		0 0 10px rgba(0,178,255,1),
+		0 0 20px rgba(0,178,255,1),
+		0 0 40px rgba(38,104,127,1),
+		0 0 80px rgba(38,104,127,1),
+		0 0 90px rgba(38,104,127,1),
+		0 0 100px rgba(38,104,127,1),
+		0 0 140px rgba(38,104,127,1),
+		0 0 180px rgba(38,104,127,1);
 }
